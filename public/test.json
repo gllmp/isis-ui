@@ -1,0 +1,1027 @@
+{
+ "name": "test",
+ "lyrics": {
+     "lexicon": "xsampa",
+     "symbols": [
+         "_",
+         "s",
+         "E",
+         "t",
+         "y",
+         "n",
+         "S",
+         "a~",
+         "s",
+         "o~",
+         "k",
+         "i",
+         "n",
+         "u",
+         "R",
+         "@",
+         "s",
+         "a~",
+         "b",
+         "l",
+         "@",
+         "_",
+         "t",
+         "w",
+         "a",
+         "t",
+         "y",
+         "m",
+         "E",
+         "m",
+         "E",
+         "e",
+         "Z",
+         "@",
+         "t",
+         "E",
+         "m",
+         "E",
+         "_"
+     ]
+ },
+ "tempo": 213.0,
+ "units": [
+     {
+         "note": {
+             "midi": 0.0,
+             "num_tatums": 2.0,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "_",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "f0silence",
+                     "start_time": 0.0,
+                     "end_time": 0.5633802816901409
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "loudnesssilence",
+                     "start_time": 0.0,
+                     "end_time": 0.31981778169014097
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 64.0,
+             "num_tatums": 1.54583333,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "E",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "attack",
+                     "start_time": 0.5633802816901409,
+                     "end_time": 0.7133802816901409,
+                     "offset": 0.0,
+                     "start_frequency": 129.6275569128699,
+                     "end_frequency": 329.6275569128699
+                 },
+                 {
+                     "kind": "sustain",
+                     "start_time": 0.7133802816901409,
+                     "end_time": 0.8538262901408455,
+                     "frequency": 329.6275569128699,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 0.8538262901408455,
+                     "end_time": 0.9988262901408451,
+                     "start_frequency": 329.6275569128699,
+                     "end_frequency": 369.9944227116344,
+                     "first_part_duration": 0.07699999999999974,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.06799999999999984,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 0.5633802816901409,
+                     "end_time": 0.8538262901408455,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.9250986548875615,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 66.0,
+             "num_tatums": 1.525,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "y",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 0.9988262901408451,
+                     "end_time": 1.2136150225352114,
+                     "frequency": 369.9944227116344,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 1.2136150225352114,
+                     "end_time": 1.4284037549295776,
+                     "start_frequency": 369.9944227116344,
+                     "end_frequency": 391.99543598174927,
+                     "first_part_duration": 0.11189436619718318,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.10289436619718306,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 0.9988262901408451,
+                     "end_time": 1.2136150225352114,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.48885805922411874,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 67.0,
+             "num_tatums": 1.525,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "a~",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 1.4284037549295776,
+                     "end_time": 1.6431924873239439,
+                     "frequency": 391.99543598174927,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 1.6431924873239439,
+                     "end_time": 1.85798121971831,
+                     "start_frequency": 391.99543598174927,
+                     "end_frequency": 523.2511306011972,
+                     "first_part_duration": 0.11189436619718318,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.10289436619718306,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 1.4284037549295776,
+                     "end_time": 1.6431924873239439,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.7027089927782755,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 72.0,
+             "num_tatums": 7.25833333,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "o~",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 1.85798121971831,
+                     "end_time": 3.7470821577464797,
+                     "frequency": 523.2511306011972,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 3.7470821577464797,
+                     "end_time": 3.9025821577464797,
+                     "start_frequency": 523.2511306011972,
+                     "end_frequency": 293.6647679174076,
+                     "first_part_duration": 0.08225000000000016,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": 50.0,
+                     "second_part_duration": 0.07324999999999982,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": -50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 1.85798121971831,
+                     "end_time": 3.7470821577464797,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.4718223505572624,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 62.0,
+             "num_tatums": 1.68541667,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "i",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 3.9025821577464797,
+                     "end_time": 4.1996599169014095,
+                     "frequency": 293.6647679174076,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 4.1996599169014095,
+                     "end_time": 4.37734741690141,
+                     "start_frequency": 293.6647679174076,
+                     "end_frequency": 329.6275569128699,
+                     "first_part_duration": 0.09334374999999984,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.08434375000000038,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 3.9025821577464797,
+                     "end_time": 4.1996599169014095,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.4647911695833126,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 64.0,
+             "num_tatums": 1.31666667,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "u",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 4.37734741690141,
+                     "end_time": 4.61158318661972,
+                     "frequency": 329.6275569128699,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 4.61158318661972,
+                     "end_time": 4.75058318661972,
+                     "start_frequency": 329.6275569128699,
+                     "end_frequency": 369.9944227116344,
+                     "first_part_duration": 0.07399999999999984,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.06500000000000039,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 4.37734741690141,
+                     "end_time": 4.61158318661972,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.4469923912913448,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 66.0,
+             "num_tatums": 1.42291667,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "@",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 4.75058318661972,
+                     "end_time": 4.948650235211269,
+                     "frequency": 369.9944227116344,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 4.948650235211269,
+                     "end_time": 5.149061033802818,
+                     "start_frequency": 369.9944227116344,
+                     "end_frequency": 493.8833012561241,
+                     "first_part_duration": 0.10470539929577427,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.09570539929577482,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 4.74823943661972,
+                     "end_time": 4.948650235211269,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.8502964457564357,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 71.0,
+             "num_tatums": 2.98958333,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "a~",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 5.149061033802818,
+                     "end_time": 5.783072183098593,
+                     "frequency": 493.8833012561241,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 5.783072183098593,
+                     "end_time": 5.922072183098593,
+                     "start_frequency": 493.8833012561241,
+                     "end_frequency": 493.8833012561241,
+                     "first_part_duration": 0.07399999999999984,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.06500000000000039,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 5.149061033802818,
+                     "end_time": 5.713947183098592,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.7027089927782755,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 71.0,
+             "num_tatums": 4.575,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "@",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 5.922072183098593,
+                     "end_time": 7.204929577464788,
+                     "frequency": 493.8833012561241,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.245,
+                     "vib_frequency": 12.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "release",
+                     "start_time": 7.204929577464788,
+                     "end_time": 7.279929577464788,
+                     "offset": 0.0,
+                     "start_frequency": 493.8833012561241,
+                     "end_frequency": 293.8833012561241
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 5.991197183098592,
+                     "end_time": 7.279929577464789,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.8502964457564357,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 0.0,
+             "num_tatums": 1.5,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "_",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "f0silence",
+                     "start_time": 7.279929577464788,
+                     "end_time": 7.591735880858924
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "loudnesssilence",
+                     "start_time": 7.279929577464789,
+                     "end_time": 7.491197183098592
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 60.0,
+             "num_tatums": 1.88333333,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "a",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "attack",
+                     "start_time": 7.591735880858924,
+                     "end_time": 7.741735880858925,
+                     "offset": 0.0,
+                     "start_frequency": 161.6255653005986,
+                     "end_frequency": 261.6255653005986
+                 },
+                 {
+                     "kind": "sustain",
+                     "start_time": 7.741735880858925,
+                     "end_time": 8.08798121971831,
+                     "frequency": 261.6255653005986,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 8.08798121971831,
+                     "end_time": 8.23298121971831,
+                     "start_frequency": 261.6255653005986,
+                     "end_frequency": 293.6647679174076,
+                     "first_part_duration": 0.07699999999999996,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.06799999999999962,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 7.702464788732395,
+                     "end_time": 8.08798121971831,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 1.0,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 62.0,
+             "num_tatums": 1.525,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "y",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 8.23298121971831,
+                     "end_time": 8.497683684507042,
+                     "frequency": 293.6647679174076,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 8.497683684507042,
+                     "end_time": 8.662558684507042,
+                     "start_frequency": 293.6647679174076,
+                     "end_frequency": 329.6275569128699,
+                     "first_part_duration": 0.08693750000000122,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.0779374999999991,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 8.23298121971831,
+                     "end_time": 8.497683684507042,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.48885805922411874,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 64.0,
+             "num_tatums": 1.525,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "E",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 8.662558684507042,
+                     "end_time": 8.927261149295774,
+                     "frequency": 329.6275569128699,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 8.927261149295774,
+                     "end_time": 9.092136149295774,
+                     "start_frequency": 329.6275569128699,
+                     "end_frequency": 440.0,
+                     "first_part_duration": 0.08693750000000122,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.0779374999999991,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 8.662558684507042,
+                     "end_time": 8.927261149295774,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.9250986548875615,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 69.0,
+             "num_tatums": 7.33958333,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "E",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 9.092136149295774,
+                     "end_time": 11.085624411267604,
+                     "frequency": 440.0,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 11.085624411267604,
+                     "end_time": 11.224624411267603,
+                     "start_frequency": 440.0,
+                     "end_frequency": 246.94165062806206,
+                     "first_part_duration": 0.07399999999999984,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": 50.0,
+                     "second_part_duration": 0.0649999999999995,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": -50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 9.092136149295774,
+                     "end_time": 11.159624411267604,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.25595248633540746,
+                     "scale_factor": 0.9250986548875615,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 59.0,
+             "num_tatums": 1.8125,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "e",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 11.224624411267603,
+                     "end_time": 11.498031541549294,
+                     "frequency": 246.94165062806206,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 11.498031541549294,
+                     "end_time": 11.670187791549294,
+                     "start_frequency": 246.94165062806206,
+                     "end_frequency": 277.1826309768721,
+                     "first_part_duration": 0.0905781250000004,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.08157812500000006,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 11.159624411267604,
+                     "end_time": 11.498031541549294,
+                     "attack_duration": 0.0,
+                     "attack_gain_factor": 0.0,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.6883173540635491,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 61.0,
+             "num_tatums": 1.52708333,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "@",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 11.670187791549294,
+                     "end_time": 11.955352109859154,
+                     "frequency": 277.1826309768721,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 11.955352109859154,
+                     "end_time": 12.100352109859154,
+                     "start_frequency": 277.1826309768721,
+                     "end_frequency": 311.1269837220809,
+                     "first_part_duration": 0.07699999999999996,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.06799999999999962,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 11.670187791549294,
+                     "end_time": 11.955352109859154,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.8502964457564357,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 63.0,
+             "num_tatums": 1.35416667,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "E",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 12.100352109859154,
+                     "end_time": 12.316932509859154,
+                     "frequency": 311.1269837220809,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "transition",
+                     "start_time": 12.316932509859154,
+                     "end_time": 12.481807509859154,
+                     "start_frequency": 311.1269837220809,
+                     "end_frequency": 391.99543598174927,
+                     "first_part_duration": 0.08693750000000122,
+                     "first_part_peak_time_ratio": 0.75,
+                     "first_part_peak_freq_range": -50.0,
+                     "second_part_duration": 0.0779374999999991,
+                     "second_part_peak_time_ratio": 0.75,
+                     "second_part_peak_freq_range": 50.0
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 12.100352109859154,
+                     "end_time": 12.316932509859154,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.9250986548875615,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 67.0,
+             "num_tatums": 6.07083333,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "E",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "sustain",
+                     "start_time": 12.481807509859154,
+                     "end_time": 14.116901405633802,
+                     "frequency": 391.99543598174927,
+                     "vib_offset": 0.1,
+                     "vib_attack_duration": 0.15,
+                     "vib_release_duration": 0.045,
+                     "vib_frequency": 6.0,
+                     "vib_amplitude": 75.0
+                 },
+                 {
+                     "kind": "release",
+                     "start_time": 14.116901405633802,
+                     "end_time": 14.191901405633802,
+                     "offset": 0.0,
+                     "start_frequency": 391.99543598174927,
+                     "end_frequency": 191.99543598174927
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "vowel",
+                     "start_time": 12.481807509859154,
+                     "end_time": 14.191901405633802,
+                     "attack_duration": 0.05,
+                     "attack_gain_factor": 0.3,
+                     "release_duration": 0.1,
+                     "release_gain_factor": 0.3,
+                     "scale_factor": 0.9250986548875615,
+                     "accent_factor": 1.0
+                 }
+             ]
+         }
+     },
+     {
+         "note": {
+             "midi": 0.0,
+             "num_tatums": 2.0,
+             "tempo": 213.0,
+             "velocity": 63
+         },
+         "vowel": "_",
+         "f0": {
+             "segments": [
+                 {
+                     "kind": "f0silence",
+                     "start_time": 14.191901405633802,
+                     "end_time": 14.755281687323942
+                 }
+             ]
+         },
+         "loudness": {
+             "segments": [
+                 {
+                     "kind": "loudnesssilence",
+                     "start_time": 14.191901405633802,
+                     "end_time": 14.755281687323942
+                 }
+             ]
+         }
+     }
+ ],
+ "transpositions": {
+     "global": 0,
+     "el": 2,
+     "rt": -13
+ },
+ "duration": 14.755281687323942
+}
